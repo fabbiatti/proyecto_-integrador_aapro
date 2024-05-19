@@ -1,0 +1,33 @@
+.contenedor{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(9,300px);
+}
+
+.caja1{
+    background-color: red;
+}
+.caja2{
+    background-color: blue;
+}
+.caja3{
+    background-color: green;
+}
+.caja4{
+    background-color: violet;
+}
+.caja5{
+    background-color: brown;
+}
+.caja6{
+    background-color: orange;
+}
+.caja7{
+    background-color: lightblue;
+}
+.caja8{
+    background-color: darkgreen;
+}
+.caja9{
+    background-color: gray;
+}
